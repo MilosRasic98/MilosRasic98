@@ -17,6 +17,7 @@ My work spans robotics platforms, wearable/medical devices, IoT systems, and ope
 
 ### 🌟 Featured Projects
 - [**Open Cardiography Signal Measuring Device**](https://github.com/MilosRasic98/OpenCardiographySignalMeasuringDevice) — Open-source biotech research device
+- [**Open Dual Motor Driver**](https://github.com/MilosRasic98/OpenDualMotorDriver) - Open-source all-in-one, dual brushed DC motor driver
 - [**PlatypusBot**](https://github.com/MilosRasic98/PlatypusBot) — Custom ROS2 mobile robot platform  
 - [**OpenHRStrap**](https://github.com/MilosRasic98/OpenHRStrap) — DIY BLE heart-rate chest strap 
 - [**SoftRobotETF**](https://github.com/MilosRasic98/SoftRobotETF) — Fully open-source platform for testing continuum soft robots 
