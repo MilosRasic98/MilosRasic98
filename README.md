@@ -19,6 +19,7 @@ My work spans robotics platforms, wearable/medical devices, IoT systems, and ope
 **Biotech**
 - [**Open Cardiography Signal Measuring Device**](https://github.com/MilosRasic98/OpenCardiographySignalMeasuringDevice) — Open-source biotech research device
 - [**OpenHRStrap**](https://github.com/MilosRasic98/OpenHRStrap) — DIY BLE heart-rate chest strap
+
 **Robotics**
 - [**Open Dual Motor Driver**](https://github.com/MilosRasic98/OpenDualMotorDriver) - Open-source all-in-one, dual brushed DC motor driver
 - [**Open Mobile Robotic Manipulator**](https://github.com/MilosRasic98/OpenMobileRoboticManipulator) — Open-source mobile robotic manipulator platform  
